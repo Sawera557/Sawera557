@@ -1,6 +1,6 @@
 # Sawera Khadium
 
-### AI Engineer · Founder at AIFixSystems · Creator of Hermes
+### AI Engineer · Founder at AIFixSystems · Forward Deployed Engineer
 
 Building AI assistants, agentic systems, and automation that connect
 language models with real business operations.
@@ -8,6 +8,14 @@ language models with real business operations.
 [Website](https://sawera-khadium.netlify.app/) ·
 [Portfolio](https://drive.google.com/drive/folders/1ofndhVKL17BrUyM3f1m-SnIHCBSzodHU?usp=sharing) ·
 [LinkedIn](https://www.linkedin.com/in/sawera-khadium/)
+
+## Professional Summary
+
+AI Solutions Engineer with 7+ years in production AI and 4+ years embedded with clients from kickoff to go-live; founder of AIFixSystems (10+ clients across the UK, Europe and US). Maps messy workflows across spreadsheets, email and accounting systems, then automates them with AI agents. Most recently shipped an agent platform into a customer's six-business operation, connected through 3 custom MCP servers. Writes integration code in Python, TypeScript and SQL.
+
+
+####Selected impact:  
+$35K/year saved  |  $1,000+/week LLM overrun cut  |  15 hrs/week saved  |  CRM admin time cut 50%+ | 40+ systems integrated  |  21 live agent workflows  |  600K-1M API calls/month  |  led 10+ engineers
 
 
 ## About
