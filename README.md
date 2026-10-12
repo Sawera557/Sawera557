@@ -14,7 +14,7 @@ language models with real business operations.
 AI Solutions Engineer with 7+ years in production AI and 4+ years embedded with clients from kickoff to go-live; founder of AIFixSystems (10+ clients across the UK, Europe and US). Maps messy workflows across spreadsheets, email and accounting systems, then automates them with AI agents. Most recently shipped an agent platform into a customer's six-business operation, connected through 3 custom MCP servers. Writes integration code in Python, TypeScript and SQL.
 
 
-####Selected impact:  
+### Selected impact:  
 $35K/year saved  |  $1,000+/week LLM overrun cut  |  15 hrs/week saved  |  CRM admin time cut 50%+ | 40+ systems integrated  |  21 live agent workflows  |  600K-1M API calls/month  |  led 10+ engineers
 
 
